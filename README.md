@@ -1,6 +1,6 @@
 # hw3
 
-https://vk.com/away.php?to=https%3A%2F%2Fgoo.gl%2Fforms%2FqHQiZDdXmR4N0NTc2&cc_key=  (форма)
+https://docs.google.com/forms/d/1xzlCdaUVypVTWyb7P2nAdqdW0CPqXKDZmTurQOfZx1s/edit?ts=5a84b07e  (форма)
 
 https://docs.google.com/spreadsheets/d/1wthuOxKPQpJp1pdq-gdkCokFFGCXc3gcb5t-acCCENg/edit#gid=717850514  (таблица)
 
